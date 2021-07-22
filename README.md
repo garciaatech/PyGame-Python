@@ -1,2 +1,2 @@
-# PyGame-Python
-All PyGame Projects done / working on
+# PyGame-Snake
+Working snake on python
